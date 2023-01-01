@@ -15,7 +15,7 @@ This repository is 🔋 battery packed with:
 
 ## Getting Started
 
-### 1. Clone this template:
+### 1. Clone this template
 
 ### 2. Install dependencies
 
